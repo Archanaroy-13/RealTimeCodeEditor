@@ -1,2 +1,21 @@
 node_modules
-npm-debug.log
+.git
+dist
+build
+coverage
+.env
+*.log
+Dockerfile
+docker-compose.yml
+**/node_modules
+# Unity folders
+Library
+Temp
+Logs
+Obj
+Build
+MemoryCaptures
+UserSettings
+
+# macOS
+.DS_Store
